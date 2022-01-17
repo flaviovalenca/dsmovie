@@ -1,5 +1,5 @@
 # Flávio Valença
-## semana Spring React e SpringBoot 
+## semana React e SpringBoot 
 
 Construção de aplicativo usando as tecnologias de frontend #react e backend #springboot com banco de dados #postgres.
 
